@@ -1,17 +1,14 @@
 # Nenad Goranović
 
-WordPress, SEO and website optimization.  
-Building fast, responsive websites for small businesses.
+WordPress, SEO and website optimization specialist from Novi Sad, Serbia.  
+I build fast, responsive websites for small businesses and improve their visibility on Google.
 
-## Skills
+## What I do
 
-- WordPress
-- SEO optimization
+- WordPress website setup and customization
+- SEO optimization for local businesses
 - Website speed optimization
-- HTML
-- CSS
-- JavaScript
-- Git & GitHub
+- HTML, CSS and basic JavaScript edits
 - Computer repair and IT support
 
 ## Websites
